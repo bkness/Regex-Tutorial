@@ -14,7 +14,7 @@ This is a detailed email RegEx tutorial explaining what each specific component 
 - [Questions](#questions-📝)
 
 ## Installation 
-npm i
+No installation necessary 
 
 ## Usage
 This is a tutorial, no packages need to be installed to view this.
